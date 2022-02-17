@@ -1,7 +1,7 @@
 # Análisis de datos de Covid-19
 
-El objtevio de esta página es presentar los resultados de la actividad **Descargando y analizando los datos de COVID** perteneciente al curso **Herramientas de productividad para Ciencia de Datos** de la Univerdad de Sonora. 
-La actividad tiene como objetivo determinar cuál es el factor de riesgo mas común en las mujeres de Sonora reportados en la base de datos de la información proporcionada por la Dirección General de Epidemiología.
+<p>El objetivo de esta página es presentar los resultados de la actividad <strong>Descargando y analizando los datos de COVID </strong> perteneciente al curso <strong>Herramientas de productividad para Ciencia de Datos </strong> de la Univerdad de Sonora. </p>
+<p>La actividad tiene como objetivo determinar cuál es el factor de riesgo mas común en las mujeres de Sonora reportados en la base de datos de la información proporcionada por la Dirección General de Epidemiología. </p>
 En un contenedor de Docker se corrió un script de la línea de comando de UNIX que permite considerar sólo los casos de mujeres del estado de Sonora.
 
 ## Metodología
