@@ -11,7 +11,7 @@ Por medio de un [Dockerfile](https://github.com/melrepa/Covid19/blob/main/analis
 
 - Descarga la base de datos de la página de [Datos Abiertos Dirección General de Epidemiología](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
 - Limpia los datos dejando solo lo referente a mujeres de Sonora.
-- Genera un archivo con el nombre covidmujerson.csv listo para ser analizado.
+- Genera un [archivo](https://github.com/melrepa/Covid19/blob/main/covidmujerson.csv) con el nombre covidmujerson.csv listo para ser analizado.
 
 La base de datos a ser analizada se copió al repositorio por medio del siguiente comando:
 
