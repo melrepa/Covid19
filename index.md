@@ -6,7 +6,7 @@ En un contenedor de Docker se corrió un script de la línea de comando de UNIX 
 
 ## Metodología
 
-Por medio de un [Dockerfile](https://github.com/melrepa/Covid19/blob/main/analisiscovid.dockerfile) se baja un contenedor de ubuntu que incluye un [script](https://github.com/melrepa/Covid19/blob/main/covidscript.sh) que hace lo siguiente:
+Por medio de un [Dockerfile](https://github.com/melrepa/Covid19/blob/main/DIY/analisiscovid.dockerfile) se baja un contenedor de ubuntu que incluye un [script](https://github.com/melrepa/Covid19/blob/main/DIY/covidscript.sh) que hace lo siguiente:
 
 - Descarga la base de datos de la página de [Datos Abiertos Dirección General de Epidemiología](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
 - Limpia los datos dejando solo lo referente a mujeres de Sonora.
