@@ -29,4 +29,4 @@ Es necesario que ambos archivos estén en una misma dirección. A continuación 
     $ docker build -t username/imagen .
     $ docker run -it --name name username/imagen
 ```
-El Dockerfile copiará el script de shell dentro del nuevo contenedor basado en ubuntu, este script automáticamnete relizará las acciones descritas en la metodología.
+El Dockerfile copiará el script de shell dentro del nuevo contenedor basado en ubuntu, este script automaticamente relizará las acciones descritas en la metodología.
