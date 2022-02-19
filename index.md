@@ -21,6 +21,8 @@ La base de datos a ser analizada se copió al repositorio por medio del siguient
 
 ## Resultados
 
+*Próximamente*
+
 ## Implementación
 Para poder obtener los datos utilizados en esta actividad es necesario descargar el contenido de la carpeta [**DIY/**](https://github.com/melrepa/Covid19/tree/main/DIY) en la cual se encuentra un **Dockerfile** y un **script de shell.** 
 
