@@ -1,0 +1,9 @@
+{
+	"name": "Mel-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2043e402-461f-4ccc-aada-7603fea5ee3f",
+		"tenantId": "a6e540b4-015c-4e02-98b2-bc184e9da1de"
+	}
+}
